@@ -1,0 +1,25 @@
+.column {
+  width: 25%;
+  float: left;
+  font-style: italic;
+  color:red;
+  border: 10px solid green;
+  padding: 5px;
+}
+
+.total {
+  width: 75%;
+  margin: auto;
+
+}
+
+.column h2 {
+  font-weight: bold;
+  color: yellow;
+  font-size: 45px;
+}
+
+.column img {
+  width: 125px;
+  height: auto;
+}
