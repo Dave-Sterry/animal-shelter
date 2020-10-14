@@ -5,6 +5,7 @@
 </div>
 <p align="center">By Max Brockabnk</p>
 <p align="center">Updated on Oct 14th, 2020</p>
+
 # _Animal Shelter Website_
 
 #### _A wonderful Website for an Animal Shelter, _10/14/2020_
@@ -17,9 +18,9 @@ _A website to test out box, floats and cascading_
 
 ## Setup/Installation Requirements
 
-* _User will need an up to date browser_
-* _navigate to dave-sterry.github.io/animal-shelter
-* _Alternatively user can download the zip file and open the index.html file_
+* User will need an up to date browser
+* navigate to dave-sterry.github.io/animal-shelter
+* Alternatively user can download the zip file and open the index.html file
 
 
 ## Known Bugs
@@ -41,4 +42,4 @@ _Visual Studios Code_
 
 *This project used MIT 2.0*
 
-Copyright (c) 2020 **_David Stery, Max Brockbank_**
+Copyright (c) 2020 **_David Sterry, Max Brockbank_**
