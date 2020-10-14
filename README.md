@@ -5,11 +5,12 @@
 </div>
 <p align="center">By Max Brockabnk</p>
 <p align="center">Updated on Oct 14th, 2020</p>
+
 # _Animal Shelter Website_
 
-####_A wonderful Website for an Animal Shelter, _10/14/2020_
+#### A wonderful Website for an Animal Shelter, _10/14/2020_
 
-####By_**David Sterry and Max Brockbank**_
+#### By _**David Sterry and Max Brockbank**_
 
 ## Description
 
